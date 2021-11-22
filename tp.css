@@ -1,0 +1,37 @@
+.header{
+    margin: auto;
+    width: 100%;
+}
+
+.h1{
+    color: #EF233C;
+    font-size: 10ex;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h3{
+    color: #2B2D42;
+    font-size: 5ex;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.banniere{
+    height:200px;
+    width:800px;
+}
+
+.body{
+    background: radial-gradient(ellipse at top #CCDAE0, #EDF2F4);
+}
+
+p{
+    border: 1px solid black;
+}
+
+img{
+    text-align: center;
+    border: 2px solid #8D99AE;
+}
